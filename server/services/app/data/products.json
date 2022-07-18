@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Burvik",
+    "slug": "burvik",
+    "overview": "Side table, white, 15\"",
+    "description": "The side table is light and small enough to lift with one hand, and the handle makes it easy to carry around the home. The handle is bent in a way that gives you a good grip and good balance when carrying things on the table. Thanks to the height of the handle there’s enough room for things like bottles and vases. The table top has extra high edges, so that things don’t slide off when you carry the side table. The clear-lacquered surface is easy to wipe clean and is stain resistant. The self-adjusting plastic feet provide increased stability. Easy to assemble without tools or screws. Max load on table top: 11 lbs. Only for indoor use. Possible to separate for recycling or energy recovery if available in your community.",
+    "price": 499000,
+    "mainImg": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/512/0551240_PE658473_S4.jpg",
+    "categoryId": 1,
+    "userMongoId": "62cbda09dade4d68f052ef68"
+  },
+  {
+    "name": "Teodores",
+    "slug": "teodores",
+    "overview": "Chair, white",
+    "description": "The chair is easy to store when not in use, since you can stack up to 6 chairs on top of each other. Possible to separate for recycling or energy recovery if available in your community.",
+    "price": 425000,
+    "mainImg": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/273/0727344_PE735616_S4.jpg",
+    "categoryId": 2,
+    "userMongoId": "62cbda09dade4d68f052ef68"
+  },
+  {
+    "name": "Tossberg",
+    "slug": "tossberg",
+    "overview": "Chair, metal black/gray",
+    "description": "The upholstered seat and comfortable angle of the backrest make the chair perfect for long dinners. The chair is more comfortable because it has armrests and a rounded back. The armrests are long enough to provide support when you lean back and short enough to allow you to sit as close to the table as you like when eating. You sit comfortably thanks to the shaped back. The powder-coated steel frame is both sturdy and durable. The chair can be pushed under the table so that it takes up less space when not in use. May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear. Possible to separate for recycling or energy recovery if available in your communit ",
+    "price": 3995000,
+    "mainImg": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/619/0661921_PE712124_S4.jpg",
+    "categoryId": 2,
+    "userMongoId": "62cbda09dade4d68f052ef68"
+  },
+  {
+    "name": "Klippan",
+    "slug": "klippan",
+    "overview": "Loveseat, Vissle gray",
+    "description": "Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years. The fixed BOMSTAD cover is made of a durable material that both feels and looks like leather. The material consists of polyester and cotton and has a protective coating of polyurethane. The cover is easy to keep clean as it can be wiped with a damp sponge or a mild detergent. 10-year limited warranty. Read about the terms in the limited warranty brochure.",
+    "price": 2995000,
+    "mainImg": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/399/0239990_PE379591_S4.jpg",
+    "categoryId": 2,
+    "userMongoId": "62cbda09dade4d68f052ef68"
+  },
+  {
+    "name": "Kallax",
+    "slug": "kallax",
+    "overview": "Shelf unit, white, 30 3/8x57 7/8 \"",
+    "description": "The simple design with clean lines makes KALLAX flexible and easy to use at home. The smooth surfaces and the rounded edges give the shelving unit a well-thought-out and solid look. The shelves align perfectly with the frame to create a strong and uniform style. The flexible and adaptable construction makes it possible for you to enjoy your KALLAX for many years, even when your needs change or when you move. Choose whether to place it standing and use it as a shelving unit or lying and use it as a sideboard. Display your favorite items on the open shelves or add inserts to create a personalized solution with closed storage. Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. Two people are needed to assemble this furniture. This furniture can take a max load of 55 lbs. on the top. May be completed with KALLAX insert, sold separately. Coordinates well with pieces of furniture in the LACK series that have the same timeless expression and material as KALLAX. Complete with KALLAX underframe to give this shelving unit a new look while making it easier to vacuum underneath. KALLAX underframe sold separately.",
+    "price": 1199000,
+    "mainImg": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/447/0644757_PE702939_S4.jpg",
+    "categoryId": 3,
+    "userMongoId": "62cbda09dade4d68f052ef68"
+  }
+]
